@@ -1,8 +1,10 @@
 # Product Effectiveness Measurement Algorithm(PEM)
 Product Effectiveness Measurement Algorithm
 
- 본 프로젝트는 "온라인 고객 리뷰를 활용한 제품 효과 분석 기법"에 제안된 텍스트로부터 효과를 측정할 수 있는
- 제품 효과 측정 알고리즘 (Product Effectiveness Measurement, PEM)의 재현을 위해 생성되었습니다.
+### 본 프로젝트는 "온라인 고객 리뷰를 활용한 제품 효과 분석 기법"(A TECHNIQUE FOR PRODUCT EFFECT ANALYSIS USING ONLINE CUSTOMER REVIEWS)에 제안된 텍스트로부터 효과를 측정할 수 있는
+### 제품 효과 측정 알고리즘 (Product Effectiveness Measurement, PEM)의 재현을 위해 생성되었습니다.
+
+ 본 프로젝트에 대한 논문은 http://ktsde.kips.or.kr/digital-library/23873 에서 확인하실 수 있습니다.
  
  업로드 된 코드는 다음과 같습니다.
 
@@ -17,7 +19,7 @@ Product Effectiveness Measurement Algorithm
 
 그 예시는 다음과 같으며, 본 프로젝트의 data/dict에 있습니다.
 
-### 1. effect
+#### 1. effect
 
 호전, +1
 
@@ -25,7 +27,7 @@ Product Effectiveness Measurement Algorithm
 
 환하다, +1
 
-### 2. symptom
+#### 2. symptom
 
 어지러움, -1
 
@@ -33,7 +35,7 @@ Product Effectiveness Measurement Algorithm
 
 가려움, -1
 
-### 3. up
+#### 3. up
 
 너무, +1
 
@@ -41,7 +43,7 @@ Product Effectiveness Measurement Algorithm
 
 갖다, +1
 
-### 4. down
+#### 4. down
 
 불편하다, -1
 
