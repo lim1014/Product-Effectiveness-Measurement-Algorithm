@@ -1,8 +1,7 @@
 # Product Effectiveness Measurement Algorithm(PEM)
 Product Effectiveness Measurement Algorithm
 
-### 본 프로젝트는 "온라인 고객 리뷰를 활용한 제품 효과 분석 기법"(A TECHNIQUE FOR PRODUCT EFFECT ANALYSIS USING ONLINE CUSTOMER REVIEWS)에 제안된 텍스트로부터 효과를 측정할 수 있는
-### 제품 효과 측정 알고리즘 (Product Effectiveness Measurement, PEM)의 재현을 위해 생성되었습니다.
+##### 본 프로젝트는 "온라인 고객 리뷰를 활용한 제품 효과 분석 기법(A TECHNIQUE FOR PRODUCT EFFECT ANALYSIS USING ONLINE CUSTOMER REVIEWS)"에 제안된 텍스트로부터 효과를 측정할 수 있는 제품 효과 측정 알고리즘 (Product Effectiveness Measurement, PEM)의 재현을 위해 생성되었습니다.
 
  본 프로젝트에 대한 논문은 http://ktsde.kips.or.kr/digital-library/23873 에서 확인하실 수 있습니다.
  
